@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @athebault
 - 👀 I’m interested in data Science, ecology and positive impact
-- 🌱 I’m currently learning data Science with Openclassrooms
+- 🌱 I’m currently developping my enterprise as data scientist for good
 - 💞️ I’m looking to collaborate on projects for good, with positive impact on Humans and Earth
 - 📫 How to reach me thebault.aurelie@gmail.com
 
