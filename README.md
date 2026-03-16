@@ -2,7 +2,8 @@
 - 👀 I’m interested in data Science, ecology and positive impact
 - 🌱 I’m currently developping my enterprise as data scientist for good
 - 💞️ I’m looking to collaborate on projects for good, with positive impact on Humans and Earth
-- 📫 How to reach me thebault.aurelie@gmail.com
+- 📫 How to reach me aurelie.thebault@lilo.org
+- 🧩 To see some of my projects: https://athebault.github.io/portfolio/
 
 <!---
 athebault/athebault is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
